@@ -12,7 +12,8 @@
     "ejs": "~0.8.4",
     "amqp": "~0.1.8",
     "edge": "~0.7.14",
-    "edge-sql": "~0.1.1"
+    "edge-sql": "~0.1.1",
+    "dateformat": "~1.0.7-1.2.3"
   },
   "devDependencies": {
     "grunt": "~0.4.1",
